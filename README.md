@@ -1,20 +1,15 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nicolas;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-    <h2 align="center"> >🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>
-      👋 Sou um entusiasta em desenvolvimento web, gosto de explorar tecnologias, hoje o meu foco está em Javascript e seus principais frameworks <br>
-      🔭 Estou em uma jornada a longo prazo de especialização Fullstack para criar aplicações consistentes e experiências incríveis para os usuários. <br>
-    </p>
-    <p>
-      <a href="https://linkedin.com/in/nicolas-wender-b860641b2">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    <p/>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nicolas;This+is..;..my+Github..;" alt="Typing SVG"/>
 
+<h2 align="center"> >🚀 About Me</h2>
+<p>
+  👋 Sou um entusiasta em desenvolvimento web, gosto de explorar tecnologias, hoje o meu foco está em Javascript e seus principais frameworks <br>
+  🔭 Estou em uma jornada a longo prazo de especialização Fullstack para criar aplicações consistentes e experiências incríveis para os usuários. <br>
+</p>
+<p>
+  <a href="https://linkedin.com/in/nicolas-wender-b860641b2">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+<p/>
 
 <h2 align="center">💻 Tech Stack</h2>
 
