@@ -1,4 +1,4 @@
-#Hello, this is my Github
+# Hello, this is my Github
 
 ## 🚀 About Me
 👋 Sou um entusiasta em desenvolvimento web, gosto de explorar tecnologias, hoje o meu foco está em Javascript e seus principais frameworks <br>
