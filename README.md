@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nicolas;This+is..;..my+Github..;" alt="Typing SVG"/>
+#Hello, this is my Github
 
 ## 🚀 About Me
 👋 Sou um entusiasta em desenvolvimento web, gosto de explorar tecnologias, hoje o meu foco está em Javascript e seus principais frameworks <br>
