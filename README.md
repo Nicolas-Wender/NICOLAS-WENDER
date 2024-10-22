@@ -25,9 +25,8 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge)
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
 
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicolas-wender&theme=dark&hide_border=false)
-<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-wender&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
