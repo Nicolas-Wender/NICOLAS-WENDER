@@ -1,14 +1,11 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software e BI.
-- 🎓 Graduado em Analise e Desenvolvimento de Sistemas.
-- 💼 Experiência prática em Data Analytics.
-- 🌱 Sempre aprendendo mais sobre novas tecnologias.
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicolas-wender&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-wender&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+- 👋 **Analista de Dados e Desenvolvedor Python**, transformo dados em insights estratégicos e desenvolvo soluções orientadas por dados que apoiam a tomada de decisões assertivas.
+- 🎓 **Formado em Análise e Desenvolvimento de Sistemas**
+- 💼 Atuação prática em **Data Analytics** e **Business Intelligence**, desde a coleta e tratamento de dados até a análise e visualização.
+- 🐍 Desenvolvedor com experiência em **Python**, aplicando a linguagem em automações, análises estatísticas, manipulação de dados (Pandas, NumPy), integrações com APIs e construção de pipelines de dados.
+- 🚀 Comprometido com a melhoria contínua, aplicando boas práticas e acompanhando as inovações em dados e desenvolvimento.
+- 📚 Em constante evolução profissional, buscando aprimorar habilidades técnicas e ampliar o impacto dos projetos desenvolvidos.
 
 ## Onde me encontrar
 
